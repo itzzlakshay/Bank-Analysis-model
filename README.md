@@ -13,11 +13,15 @@ Insights on customer behavior and marketing effectiveness
 
 ![py2](https://github.com/user-attachments/assets/2195735e-606e-44e1-a301-5a746003271a)
 
-
 banking dashboard.pbix: Interactive Power BI dashboard showcasing:
 Home page
 Loan analysis
 Deposite analysis
+![pbi 1](https://github.com/user-attachments/assets/b71b530a-333c-4309-8e48-d9092743f02e)
+![pbi 2](https://github.com/user-attachments/assets/e68b2683-c0a2-41b7-b4a6-944a058fae99)
+![pbi 3](https://github.com/user-attachments/assets/f313d968-0357-4226-9a2e-77e96f76ac8b)
+![pbi 4](https://github.com/user-attachments/assets/932b8805-c05d-4018-acc6-4a5750ffe890)
+
 
 Filters and slicers for dynamic data exploration
 
